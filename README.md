@@ -40,3 +40,8 @@
 ## Code Snippets (Anonymized)
 
 See `/snippets` folder for sample services, validation logic, and ETL pipelines
+
+## Architecture Pattern
+
+The integration uses an ETL pipeline pattern to ensure data reliability before entering the MES production system.
+Invalid records are isolated through a fallback mechanism to prevent production disruption.
