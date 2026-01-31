@@ -4,7 +4,7 @@ sap-mes-integration/
 ├─ retry-handler.php
 ├─ diagrams/            
 │   └─ system-flow.png
-├─ snippets/            
+├─ architecture/            
 │   ├─ order-service.php
 │   ├─ inventory-service.php
 │   ├─ billing-service.php
