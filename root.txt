@@ -10,8 +10,7 @@ sap-mes-integration/
 │   ├─ billing-service.php
 │   └─ validation.php
 ├─ configs/             
-│   └─ sample-config.php
+│   └─ config.php
 ├─ docs/                
-│   └─ fallback-strategy.md
-└─ tests/               
-    └─ sample-test.php
+    └─ fallback-strategy.md
+
